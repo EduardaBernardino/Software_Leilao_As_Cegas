@@ -1,4 +1,4 @@
-Leilão às Cegas (CLI)
+# Leilão às Cegas (CLI)
 
 Pequeno programa em Python para rodar um leilão às cegas no terminal.
 Participantes informam nome, idade e valor da aposta. Ao encerrar, o script anuncia quem fez a maior oferta.
